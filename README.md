@@ -1,0 +1,2 @@
+# hakerrank
+finding percentage,list
